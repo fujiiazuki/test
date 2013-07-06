@@ -11,3 +11,5 @@
 *.lai
 *.la
 *.a
+/CppApplication_1/dist/
+/CppApplication_1/build/

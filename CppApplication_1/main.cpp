@@ -7,6 +7,7 @@
 
 #include <cstdlib>
 
+
 using namespace std;
 
 /*
@@ -14,6 +15,8 @@ using namespace std;
  */
 int main(int argc, char** argv) {
 
+    auto neko  = 1;
+    
     return 0;
 }
 
