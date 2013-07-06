@@ -15,7 +15,7 @@ using namespace std;
  */
 int main(int argc, char** argv) {
 
-    auto neko  = 1;
+    auto neko  = 12;
     
     return 0;
 }
